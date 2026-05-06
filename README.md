@@ -1,4 +1,4 @@
-# Joven Fernandez Labarejos Jr. — Portfolio
+# JLabs — Portfolio
 
 **AI Automation Specialist | n8n Workflow Engineer | Digital Systems Consultant**
 
